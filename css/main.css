@@ -63,7 +63,7 @@ nav i {
 
 /* Стили для фонового изображения */
 .welcome-background {
-    background-image: url('/img/2.jpg'); 
+    background-image: url('../img/2.jpg'); 
     background-size: cover;
     background-position: center;
     height: 100%; 
